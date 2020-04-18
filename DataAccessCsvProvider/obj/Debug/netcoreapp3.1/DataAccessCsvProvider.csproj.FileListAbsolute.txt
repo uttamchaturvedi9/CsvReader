@@ -1,0 +1,11 @@
+C:\gitrep\Accesor\DataAccessCsvProvider\bin\Debug\netcoreapp3.1\DataAccessCsvProvider.deps.json
+C:\gitrep\Accesor\DataAccessCsvProvider\bin\Debug\netcoreapp3.1\DataAccessCsvProvider.dll
+C:\gitrep\Accesor\DataAccessCsvProvider\bin\Debug\netcoreapp3.1\DataAccessCsvProvider.pdb
+C:\gitrep\Accesor\DataAccessCsvProvider\bin\Debug\netcoreapp3.1\Model.dll
+C:\gitrep\Accesor\DataAccessCsvProvider\bin\Debug\netcoreapp3.1\Model.pdb
+C:\gitrep\Accesor\DataAccessCsvProvider\obj\Debug\netcoreapp3.1\DataAccessCsvProvider.csprojAssemblyReference.cache
+C:\gitrep\Accesor\DataAccessCsvProvider\obj\Debug\netcoreapp3.1\DataAccessCsvProvider.AssemblyInfoInputs.cache
+C:\gitrep\Accesor\DataAccessCsvProvider\obj\Debug\netcoreapp3.1\DataAccessCsvProvider.AssemblyInfo.cs
+C:\gitrep\Accesor\DataAccessCsvProvider\obj\Debug\netcoreapp3.1\DataAccessCsvProvider.csproj.CopyComplete
+C:\gitrep\Accesor\DataAccessCsvProvider\obj\Debug\netcoreapp3.1\DataAccessCsvProvider.dll
+C:\gitrep\Accesor\DataAccessCsvProvider\obj\Debug\netcoreapp3.1\DataAccessCsvProvider.pdb

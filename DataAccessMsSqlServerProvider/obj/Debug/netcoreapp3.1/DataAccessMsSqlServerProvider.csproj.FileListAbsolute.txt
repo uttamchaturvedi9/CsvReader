@@ -1,0 +1,11 @@
+C:\gitrep\Accesor\DataAccessMsSqlServerProvider\bin\Debug\netcoreapp3.1\DataAccessMsSqlServerProvider.deps.json
+C:\gitrep\Accesor\DataAccessMsSqlServerProvider\bin\Debug\netcoreapp3.1\DataAccessMsSqlServerProvider.dll
+C:\gitrep\Accesor\DataAccessMsSqlServerProvider\bin\Debug\netcoreapp3.1\DataAccessMsSqlServerProvider.pdb
+C:\gitrep\Accesor\DataAccessMsSqlServerProvider\bin\Debug\netcoreapp3.1\Model.dll
+C:\gitrep\Accesor\DataAccessMsSqlServerProvider\bin\Debug\netcoreapp3.1\Model.pdb
+C:\gitrep\Accesor\DataAccessMsSqlServerProvider\obj\Debug\netcoreapp3.1\DataAccessMsSqlServerProvider.csprojAssemblyReference.cache
+C:\gitrep\Accesor\DataAccessMsSqlServerProvider\obj\Debug\netcoreapp3.1\DataAccessMsSqlServerProvider.AssemblyInfoInputs.cache
+C:\gitrep\Accesor\DataAccessMsSqlServerProvider\obj\Debug\netcoreapp3.1\DataAccessMsSqlServerProvider.AssemblyInfo.cs
+C:\gitrep\Accesor\DataAccessMsSqlServerProvider\obj\Debug\netcoreapp3.1\DataAccessMsSqlServerProvider.csproj.CopyComplete
+C:\gitrep\Accesor\DataAccessMsSqlServerProvider\obj\Debug\netcoreapp3.1\DataAccessMsSqlServerProvider.dll
+C:\gitrep\Accesor\DataAccessMsSqlServerProvider\obj\Debug\netcoreapp3.1\DataAccessMsSqlServerProvider.pdb

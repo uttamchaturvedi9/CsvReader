@@ -1,0 +1,8 @@
+C:\gitrep\Accesor\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\gitrep\Accesor\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\gitrep\Accesor\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\gitrep\Accesor\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\gitrep\Accesor\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\gitrep\Accesor\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\gitrep\Accesor\Model\obj\Debug\netcoreapp3.1\Model.pdb
+C:\gitrep\Accesor\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
